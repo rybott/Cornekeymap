@@ -53,7 +53,7 @@
 
             display-name = "Raise";
             bindings = <
-&kp TAB    &kp PAGE_UP  &kp UP_ARROW  &kp PAGE_DOWN  &trans     &kp KP_EQUAL    &trans   &kp NUMBER_7  &kp NUMBER_7  &kp NUMBER_5  &kp NUMBER_9  &kp DELETE
+&kp F2     &kp PAGE_UP  &kp UP_ARROW  &kp PAGE_DOWN  &trans     &kp KP_EQUAL    &trans   &kp NUMBER_7  &kp NUMBER_7  &kp NUMBER_5  &kp NUMBER_9  &kp DELETE
 &kp LCTRL  &kp LEFT     &kp DOWN      &kt RIGHT      &trans     &kp PLUS        &trans   &kp COMMA     &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp GRAVE
 &kp LSHFT  &trans       &trans        &trans         &kp UNDER  &kp KP_MINUS    &trans   &kp PERIOD    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp TILDE
                                       &kp LGUI       &trans     &kp SPACE       &kp RET  &mo 1         &kp NUMBER_0
